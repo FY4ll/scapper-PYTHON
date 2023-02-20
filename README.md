@@ -1,4 +1,4 @@
-Code Python pour extraire des informations sur les apprentissages disponibles en Suisse
+Code Python pour extraire des informations sur les apprentissages disponibles en Suisse (Exercice)(NOTE: IL RÉCUPÈRE UNIQUEMENT LES APPRENTIS DEVELLOPEUR)
 =======================================================================================
 
 Importation des bibliothèques
